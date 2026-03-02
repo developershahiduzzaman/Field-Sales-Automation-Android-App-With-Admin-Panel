@@ -5,6 +5,26 @@
 [![Database](https://img.shields.io/badge/Database-MySQL-blue.svg)](https://www.mysql.com/)
 
 **Field Sales Automation** একটি কমপ্লিট সলিউশন যা মাঠ পর্যায়ের বিক্রয় কর্মীদের সেলস অর্ডার এবং বকেয়া (Due) কালেকশনকে ডিজিটালাইজ করে। এটি একটি ইন্ডাস্ট্রি-গ্রেড অ্যাপ যা জটিল হিসাব-নিকাশ সহজ করতে এবং রিয়েল-টাইম ডাটা সিঙ্ক্রোনাইজেশন নিশ্চিত করতে তৈরি করা হয়েছে।
+---
+## 🌍 Live Demo & Official App Download
+
+আমাদের সিস্টেমের লাইভ ডেমো এবং লেটেস্ট অ্যাপ্লিকেশনটি নিচের বাটনগুলো ব্যবহার করে সরাসরি অ্যাক্সেস করতে পারেন:
+
+| **Laravel Admin Control Panel** | **Android App Download (v1.0.0)** |
+| :---: | :---: |
+| [![Admin Panel](https://github.com/user-attachments/assets/9b0df085-c90a-4f06-96bc-9ed6380dff3d)](https://futuretechbd.net/fieldsales) | [![Download APK](https://img.shields.io/badge/DOWNLOAD-APK_v1.0.0-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/developershahiduzzaman/Field-Sales-Automation-Android-App-With-Admin-Panel/releases/download/v1.0.0/app-release.apk) |
+| [🌐 Visit Admin Portal](https://futuretechbd.net/fieldsales) | [📥 Get the App](https://github.com/developershahiduzzaman/Field-Sales-Automation-Android-App-With-Admin-Panel/releases/download/v1.0.0/app-release.apk) |
+
+---
+
+### 🔑 Demo Credentials for Testing
+আপনি নিচের তথ্যগুলো ব্যবহার করে সরাসরি অ্যাডমিন প্যানেলে লগইন করতে পারেন:
+
+* **URL:** [futuretechbd.net/fieldsales](https://futuretechbd.net/fieldsales)
+* **Email:** `admin@gmail.com`
+* **Password:** `12345678`
+
+> **Note:** এটি একটি লাইভ প্রোডাকশন বিল্ড। ডেমো ব্যবহারের সময় কোনো গুরুত্বপূর্ণ ডাটা পরিবর্তন বা ডিলিট না করার অনুরোধ রইল।
 
 ---
 
