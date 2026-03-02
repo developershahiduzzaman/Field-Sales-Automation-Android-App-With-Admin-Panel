@@ -49,9 +49,24 @@
 - **Communication:** RESTful APIs with JSON.
 
 ---
+## 📸 App Showcase
 
-## 🚀 Installation & Configuration
+### 📱 Android Mobile Application
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbf83860-daf6-44a2-9b2d-671b3261e6b7" width="200" title="Splash Screen">
+  <img src="https://github.com/user-attachments/assets/9f15943d-6c15-4c3b-a1e0-c97c82ec1f03" width="200" title="Login UI">
+  <img src="https://github.com/user-attachments/assets/5383055f-0f7e-4229-9305-2412c6c91f56" width="200" title="Dashboard">
+  <img src="https://github.com/user-attachments/assets/5c3856d0-e172-43d8-b104-6fbee1836206" width="200" title="Product List">
+</p>
 
-১. প্রজেক্টটি ক্লোন করুন:
-   ```bash
-   git clone [https://github.com/yourusername/field-sales-automation.git](https://github.com/yourusername/field-sales-automation.git)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8cab707-a12b-4ed0-80fd-0904f2b8a84c" width="200" title="Order Management">
+  <img src="https://github.com/user-attachments/assets/cf245dae-f313-44a7-b279-3630ae464d31" width="200" title="In-App Memo">
+  <img src="https://github.com/user-attachments/assets/cdc833a2-c0e6-4f83-8b44-9d84f9cf9f1c" width="200" title="Due Collection">
+  <img src="https://github.com/user-attachments/assets/cd6cb26e-0934-46e5-9fae-34227b05ccbf" width="200" title="Profile View">
+</p>
+
+### 💻 Laravel Admin Control Panel
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b0df085-c90a-4f06-96bc-9ed6380dff3d" width="100%" title="Web Dashboard">
+</p>
