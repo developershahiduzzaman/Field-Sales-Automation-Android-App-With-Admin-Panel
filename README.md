@@ -18,13 +18,15 @@
 ---
 
 ### 🔑 Demo Credentials for Testing
-আপনি নিচের তথ্যগুলো ব্যবহার করে সরাসরি অ্যাডমিন প্যানেলে লগইন করতে পারেন:
+আপনি নিচের তথ্যগুলো ব্যবহার করে সরাসরি **Admin Pnel** লগইন করতে পারেন:
 
 * **URL:** [futuretechbd.net/fieldsales](https://futuretechbd.net/fieldsales)
 * **Email:** `admin@gmail.com`
 * **Password:** `12345678`
 
-> **Note:** এটি একটি লাইভ প্রোডাকশন বিল্ড। ডেমো ব্যবহারের সময় কোনো গুরুত্বপূর্ণ ডাটা পরিবর্তন বা ডিলিট না করার অনুরোধ রইল।
+  আপনি নিচের তথ্যগুলো ব্যবহার করে সরাসরি **Android App** লগইন করতে পারেন:
+  * **Email:** `admin@admin.com`
+  * **Password:** `12345678`
 
 ---
 
